@@ -1,0 +1,369 @@
+@media (min-width:320px) and (max-width:575.99px){
+    .pain {
+        
+        width: auto;
+    }
+    .game {
+        background: #fff;
+    }
+    .one {
+        display: block;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        background: #fff;
+        
+       
+    }
+    .heading {
+        font-size: 34px;
+        
+    }
+    .inputName {
+        margin-top: 70px;
+        margin-bottom: 27px;
+        padding: 3px 31px 3px 22px;
+        font-size: 14px;
+    }
+    .errow {
+        font-size: 22px;
+        
+        margin-bottom: 16px;
+        
+    }
+    .inputPassword {
+        margin-bottom: 20px;
+        width: auto;
+        font-size: 20px;
+    }
+    .makeButton {
+        background: #663399 !important;
+        color: white !important;
+        font-size: 18px;
+        font-weight: 600;
+        border-radius: 7px;
+        border: 0;
+        padding: 7px 18px !important;
+    }
+
+    .pain2 {
+        width: auto;
+       
+    }
+    .two {
+        padding-top: 20px; 
+        background: #fff;
+        display: flex; 
+        gap: 23px;
+        padding-bottom: 20px;
+    
+    }
+    .pain2Player {
+        padding-top: 23px;
+        padding-bottom: 0px;
+        font-size: 20px;
+        
+    }
+    .painUl {
+        
+        padding: 0px;
+        padding: 0px 60px;
+        padding-bottom: 5px;
+        padding-top: 13px;
+    }
+    .playbtn {
+        margin-right: 22px;
+        font-size: 14px;
+        
+        padding: 4px 23px;
+    }
+    .deletebtn {
+        
+        font-size: 14px;
+        
+        padding: 4px 15px;
+    }
+    .three {
+        
+        padding-top: 50px;
+        padding-bottom: 0px;
+        
+        background: #fff;
+        
+    }
+    .pain3 {
+        width: auto;
+        border: 1px solid white;
+      
+    }
+    .playerChange {
+        padding-top: 63px;
+        font-size: 32px;
+       
+        padding-bottom: 45px;
+    }
+    .chance {
+        padding-bottom: 17px;
+        font-size: 24px;
+    }
+    .inputChange {
+        margin-bottom: 25px;
+        padding: 2px 22px;
+        width: auto;
+        
+        font-size: 16px;
+    }
+    .guessBtn {
+       
+        font-size: 16px;
+        
+        padding: 7px 26px;
+        
+    }
+    .error {
+       
+        font-size: 20px;
+        
+    }
+    
+} 
+@media (min-width:576px) and (max-width:767.99px){
+    .pain {
+        
+        width: auto;
+    }
+    .game {
+        background: #fff;
+    }
+    .one {
+        display: block;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        background: #fff;
+        
+       
+    }
+    .heading {
+        font-size: 42px;
+    }
+    .inputName {
+        margin-top: 96px;
+        margin-bottom: 44px;
+        padding: 3px 39px 3px 22px;
+        font-size: 15px;
+    }   
+    .errow {
+        font-size: 27px;
+        margin-bottom: 20px;
+    }
+    .inputPassword {
+        margin-bottom: 34px;
+        width: auto;
+        font-size: 26px;
+    }
+    .makeButton {
+        
+        font-size: 22px;
+        ;
+        padding: 9px 27px !important;
+    }
+
+    .pain2 {
+        width: auto;
+       
+    }
+    .two {
+        padding-top: 20px; 
+        background: #fff;
+        display: flex; 
+        gap: 23px;
+        padding-bottom: 20px;
+    
+    }
+    .pain2Player {
+        padding-top: 23px;
+        padding-bottom: 0px;
+        font-size: 20px;
+        
+    }
+    .painUl {
+        
+        padding: 0px;
+        padding: 0px 60px;
+        padding-bottom: 5px;
+        padding-top: 13px;
+    }
+    .playbtn {
+        margin-right: 22px;
+        font-size: 14px;
+        
+        padding: 4px 23px;
+    }
+    .deletebtn {
+        
+        font-size: 14px;
+        
+        padding: 4px 15px;
+    }
+    .three {
+        
+        padding-top: 50px;
+        padding-bottom: 0px;
+        
+        background: #fff;
+        
+    }
+    .pain3 {
+        width: auto;
+        border: 1px solid white;
+      
+    }
+    .playerChange {
+        padding-top: 63px;
+        font-size: 32px;
+       
+        padding-bottom: 45px;
+    }
+    .chance {
+        padding-bottom: 17px;
+        font-size: 24px;
+    }
+    .inputChange {
+        margin-bottom: 25px;
+        padding: 2px 22px;
+        width: auto;
+        
+        font-size: 16px;
+    }
+    .guessBtn {
+       
+        font-size: 16px;
+        
+        padding: 7px 26px;
+        
+    }
+    .error {
+       
+        font-size: 20px;
+        
+    }
+    
+} 
+@media (min-width:768px) and (max-width:991.99px){
+    .pain {
+        
+        width: auto;
+    }
+    .game {
+        background: #fff;
+    }
+    .one {
+        display: block;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        background: #fff;
+        
+       
+    }
+    .heading {
+        font-size: 48px;
+    }
+    .inputName {
+        margin-top: 84px;
+        margin-bottom: 42px;
+        padding: 4px 77px 4px 22px;
+        font-size: 15px;
+    }  
+    .errow {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .inputPassword {
+        margin-bottom: 34px;
+        width: auto;
+        font-size: 30px;
+    }
+    .makeButton {
+        font-size: 23px;
+        padding: 10px 34px !important;
+    }
+
+    .pain2 {
+        
+    }
+    .two {
+        padding-top: 20px; 
+        background: #fff;
+        display: flex; 
+        gap: 23px;
+        padding-bottom: 20px;
+    
+    }
+    .pain2Player {
+        padding-top: 23px;
+        padding-bottom: 0px;
+        font-size: 20px;
+        
+    }
+    .painUl {
+        
+        padding: 0px;
+        padding: 0px 60px;
+        padding-bottom: 5px;
+        padding-top: 13px;
+    }
+    .playbtn {
+        margin-right: 22px;
+        font-size: 14px;
+        
+        padding: 4px 23px;
+    }
+    .deletebtn {
+        
+        font-size: 14px;
+        
+        padding: 4px 15px;
+    }
+    .three {
+        
+        padding-top: 50px;
+        padding-bottom: 0px;
+        
+        background: #fff;
+        
+    }
+    .pain3 {
+        width: auto;
+        border: 1px solid white;
+      
+    }
+    .playerChange {
+        padding-top: 63px;
+        font-size: 32px;
+       
+        padding-bottom: 45px;
+    }
+    .chance {
+        padding-bottom: 17px;
+        font-size: 24px;
+    }
+    .inputChange {
+        margin-bottom: 25px;
+        padding: 2px 22px;
+        width: auto;
+        
+        font-size: 16px;
+    }
+    .guessBtn {
+       
+        font-size: 16px;
+        
+        padding: 7px 26px;
+        
+    }
+    .error {
+       
+        font-size: 20px;
+        
+    }
+    
+} 

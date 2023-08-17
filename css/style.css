@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    padding: 0px;
+    list-style: none;
+}
+.game{
+    background: #1F1F1F;
+
+}
+
+.one{
+    display: flex;
+    background: #706BD2;
+    padding-top: 70px;
+    padding-bottom: 70px;    /* othe jabe*/
+    width: 100%;
+
+}
+.pain{
+    background: white;
+    
+    width: 75%;
+    border-radius: 5px;
+    margin: auto;
+
+    text-align: center;
+    
+}
+.heading{
+    padding-top: 50px;
+    font-size: 50px;
+   
+    font-weight: 600;
+}
+.inputName {
+	margin-top: 60px;
+	margin-bottom: 50px;
+	border-radius: 24px;
+	padding: 4px 9px 5px 22px;
+	border: 0;
+	border: 1px solid bisque;
+	font-size: 16px;
+	font-style: unset;
+}
+.errow{
+    font-size: 30px;
+    margin-bottom: 22px;
+    
+    
+}
+.inputPassword {
+	margin-bottom: 30px;
+	text-align: center;
+	border-radius: 36px;
+	width: 388px;
+	font-size: 29px;
+	border: 1px solid black;
+}
+.makeButton{
+    background: #663399 !important;
+    color: white !important;
+    font-size: 25px;
+    font-weight: 600;
+    border-radius: 7px;
+    border: 0;
+    padding: 10px 40px !important;
+    margin-bottom: 50px !important;
+
+}
+
+.makeButton{
+    display: block;
+    margin: auto;
+}
+
+
+/* two */
+.two{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    background: #706BD2;
+    width: 100%;
+    gap: 30px;
+    
+
+    
+}
+.pain2 {
+	width: 52%;
+	margin: auto;
+	text-align: center;
+	background: whitesmoke;
+	border-radius: 17px;
+	border: 2px solid white;
+	box-shadow: 0px 0px 10px white;
+}
+.pain2Player{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-weight: 700;
+    color: dodgerblue;
+   
+    
+    
+}
+.pain2Winner{
+    font-size: 30px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: green;
+
+}
+.painUl {
+	display: flex;
+	justify-content: space-between;
+	padding: 0px;
+	padding: 0px 68px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+.playbtn {
+	color: black !important;
+	font-size: 20px;
+	font-weight: 600;
+	padding: 6px 30px;
+}
+.colorItem{
+    color: white !important;
+}   
+.deletebtn {
+	color: white;
+	font-size: 20px;
+	font-weight: 600;
+	padding: 6px 22px;
+}
+
+/* three part */
+.three{
+    
+    display: none;
+    padding-top: 80px;
+    padding-bottom: 60px;
+    /* display: flex; */
+    background: #000;
+    width: 100%;
+
+}
+.pain3{
+    
+    width: 70%;
+	margin: auto;
+	text-align: center;
+	background: #E5F3FF;
+	border-radius: 17px;
+	border: 2px solid white;
+	box-shadow: 0px 0px 40px rgb(0, 255, 38);
+}
+.playerChange{
+    
+    padding-top: 70px;
+    font-size: 60px;
+    text-transform: uppercase;
+    font-weight: 900;
+    padding-bottom: 60px;
+}
+.chance{
+    
+    padding-bottom: 30px;
+    font-size: 40px;
+
+}
+.error{
+    
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-weight: 700;
+    
+    
+}
+.inputChange{
+    
+    margin-bottom: 30px;
+    border-radius: 26px;
+    width: 350px;
+    padding: 2px 30px;
+    text-align: center;
+    border: 1px solid black;
+    font-size: 28px;
+
+
+}
+.guessBtn{
+    
+    background: #663399;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    border-radius: 7px;
+    border: 0;
+    padding: 10px 40px;
+    margin-bottom: 50px;
+    display: block;
+    margin: auto;
+    margin-bottom: 40px !important;
+}
+.guessBtnI{
+    display: none;
+}
+.guessBtnI i{
+    margin-right: 8px;
+}
