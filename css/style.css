@@ -10,6 +10,7 @@ ul{
     background: #1F1F1F;
     height: 100vh;
     padding: 40px;
+    overflow-y: scroll;
 
 }
 
@@ -19,6 +20,7 @@ ul{
     padding-top: 50px;
     padding-bottom: 40px;    /* othe jabe*/
     width: 100%;
+    
 
 }
 .pain{
